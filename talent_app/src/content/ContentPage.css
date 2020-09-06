@@ -1,0 +1,25 @@
+/* 
+.content-page 
+{
+    
+    background-image: url("../images/career_img7.jpg");
+    position: relative;
+    top:0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: 0 auto;
+    background-size: cover ;
+    background-repeat: round;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    opacity: 0.15;
+    z-index: -0.1;
+} */
+
+/* .contents
+{
+    z-index: 1;
+    height: 900px;
+    overflow-y: scroll;
+} */

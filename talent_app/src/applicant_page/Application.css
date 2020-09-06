@@ -1,0 +1,13 @@
+.login-form-div {
+    width: 460px;
+    margin: 100px auto;
+    background-color: #909096;
+    padding: 45px;
+    font-weight: bold;
+    border-style: double;
+}
+
+.btn-login
+{
+    width:100%;
+}

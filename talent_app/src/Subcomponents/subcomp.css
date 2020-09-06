@@ -1,0 +1,10 @@
+/* .caro-sel
+{
+    height: 100px;
+} */
+
+
+.carousel-item > img {
+    width: 100% !important;
+    height: 240px;
+}
